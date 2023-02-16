@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ja">
+ <head>
+<meta charset="utf-8">
+<title>カレリアオンラインストア</title>
+<meta name="description" content="サウナグッズ公式通販サイト。従来の「ただ温まるサウナ」から「魅せるサウナ」へ、最先端のサウナ体験を科学するオリジナルブランド「カレリア」">
+<link rel="icon" type="image/png" href="images/favicon.png">
+
+  <!-- CSS -->
+   <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+   <link href="https://fonts.googleapis.com/css?family=philosopher" rel="stylsheet">
+   <link href="css/style.css" rel="stylesheet">
+ </head>
+
+
+ <body>
+   <div id="home" class="big-bg">
+<header class="page-header wrapper">
+<h1><a href="index.html"><img class="logo" src="images/logo.svg" alt="calelia"></a></h1>
+<nav>
+  <ul class="main-nav">
+    <li><a href="news.html">News</a></li>
+    <li><a href="menu.html">Menu</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+</header>
+
+<div class="home-content wrapper"
+<h2 class="page-title">Make Your New Sauna Experience</h2>
+<p>サウナは「ただ温まるもの」から「魅せるもの」へ進化する。</p>
+<a class="button" href="menu.html">メニューを見る</a>
+</div><!--/.home-content -->
+</div><!--/#home -->
+</body>
+</html>
+git add index.html
+git commit -m "[Add] index"
